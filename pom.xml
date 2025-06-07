@@ -304,7 +304,7 @@
         <feign-form-version>3.8.0</feign-form-version>
         <google-version>3.0.2</google-version>
         <annotation-version>1.2</annotation-version>
-        <jackson-version>2.10.0</jackson-version>
+        <jackson-version>2.13.0</jackson-version>
         <jackson-databind-nullable-version>0.2.1</jackson-databind-nullable-version>
         <jackson-databind-version>2.10.0</jackson-databind-version>
         <junit-version>4.13.1</junit-version>
